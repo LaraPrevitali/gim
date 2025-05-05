@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="author" content="Nome Cognome" />
+	<title>img</title>
+	<style type="text/css">
+		html{
+			height:100%;
+		}
+		body{
+			background-color: rgb(235,235,235);
+			margin: 3em 2em;
+		}
+	</style>
+
+</head>
+<body>
+
+	<img />
+
+	<script type="module">
+
+		const sequenza = [
+			"img/logo-1.png",
+			"img/logo-2.png",
+			"img/logo-3.png",
+			"img/logo-4.png",
+			"img/logo-5.png",
+			"img/logo-6.png",
+			"img/logo-7.png",
+			"img/logo-8.png",
+			"img/logo-9.png",
+			"img/logo-10.png",
+			"img/logo-11.png",
+			"img/logo-12.png",
+			"img/logo-13.png",
+			"img/logo-14.png",
+			"img/logo-15.png",
+			"img/logo-16.png",
+			"img/logo-17.png",
+			"img/logo-18.png",
+			"img/logo-19.png",
+			"img/logo-20.png",
+			"img/logo-21.png",
+			"img/logo-22.png",
+			"img/logo-23.png",
+			"img/logo-24.png",
+			"img/logo-25.png",
+			"img/logo-26.png",
+			"img/logo-27.png",
+			"img/logo-28.png",
+			"img/logo-29.png",
+			"img/logo-30.png",
+			"img/logo-31.png",
+			"img/logo-32.png",
+			"img/logo-33.png",
+			"img/logo-34.png",
+			"img/logo-35.png",
+			"img/logo-36.png",
+			"img/logo-37.png",
+			"img/logo-38.png",
+			"img/logo-39.png",
+			"img/logo-40.png",
+			"img/logo-41.png",
+			"img/logo-42.png",
+		]
+
+		let frame = 0
+
+		setInterval(() => {
+			const img = document.querySelector("img")
+			img.src = sequenza[frame]
+			frame = (frame + 1) % sequenza.length
+		}, 150)
+
+	</script>
+</body>
+</html>
