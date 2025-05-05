@@ -3,7 +3,7 @@ corso di grafica in movimento 2025, SUPSI
 
 ## Esercizio 1A
 - [acceso e spento 2](http://127.0.0.1:5500/acceso_spento_2.html)
-- [acceso e spento 3](Esercizio_1A/acceso_spento_3.html)
+- [acceso e spento 3](http://127.0.0.1:5500/acceso_spento_3.html)
 - [aperto e chiuso 2](http://127.0.0.1:5500/aperto_chiuso_2.html)
 - [aperto e chiuso 3](http://127.0.0.1:5500/aperto_chiuso_3.html)
 - [rotazione 2](http://127.0.0.1:5500/rotazione_2.html)
