@@ -19,3 +19,5 @@ L’autore discute sul fatto che più ci si sforzi di essere naturali, più si r
 Così come con le marionette, nel mondo dell’animazione accade che si cerca di rendere espressivo e naturale qualcosa che, di per sé, non lo è. Mi viene in mente ad esempio la motion capture, dove spesso si cerca di catturare movimenti umani realistici, e ci si ritrova con molti “difetti”, che gli animatori possono correggere, per dare questa famosa grazia.    
 
 La grazia che, da quanto capito, non si trova nel puro realismo, ma in una semplificazione, una stilizzazione dei movimenti, proprio come nei teatri di marionette.
+## Esercizio 2
+- [parallasse](https://laraprevitali.github.io/gim/Esercizio_2/index.html)
