@@ -21,3 +21,7 @@ Così come con le marionette, nel mondo dell’animazione accade che si cerca di
 La grazia che, da quanto capito, non si trova nel puro realismo, ma in una semplificazione, una stilizzazione dei movimenti, proprio come nei teatri di marionette.
 ## Esercizio 2
 - [parallasse](https://laraprevitali.github.io/gim/Esercizio_2/index.html)
+## Esercizio 3A
+- [pong](https://laraprevitali.github.io/gim/Esercizio_3A/03_es_pong/index.html)
+- [pioggia](https://laraprevitali.github.io/gim/Esercizio_3A/05_es_pioggia3D/index.html)
+## Esercizio 3B
