@@ -23,5 +23,7 @@ La grazia che, da quanto capito, non si trova nel puro realismo, ma in una sempl
 - [parallasse](https://laraprevitali.github.io/gim/Esercizio_2/index.html)
 ## Esercizio 3A
 - [pong](https://laraprevitali.github.io/gim/Esercizio_3A/03_es_pong/index.html)
-- [pioggia](https://laraprevitali.github.io/gim/Esercizio_3A/05_es_pioggia3D/index.html)
+- [pioggia](https://laraprevitali.github.io/gim/Esercizio_3A/04_es_pioggia/index.html)
+- [pioggia 3D](https://laraprevitali.github.io/gim/Esercizio_3A/05_es_pioggia3D/index.html)
+- [neve](https://laraprevitali.github.io/gim/Esercizio_3A/06_es_neve/index.html)
 ## Esercizio 3B
