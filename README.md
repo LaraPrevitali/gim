@@ -27,3 +27,4 @@ La grazia che, da quanto capito, non si trova nel puro realismo, ma in una sempl
 - [pioggia 3D](https://laraprevitali.github.io/gim/Esercizio_3A/05_es_pioggia3D/index.html)
 - [neve](https://laraprevitali.github.io/gim/Esercizio_3A/06_es_neve/index.html)
 ## Esercizio 3B
+- [orologio](https://laraprevitali.github.io/gim/Esercizio_3B/es_orologio/index.html)
