@@ -11,7 +11,7 @@ corso di grafica in movimento 2025, SUPSI
 - [spostamento 2](https://laraprevitali.github.io/gim/Esercizio_1A/spostamento_2.html)
 - [spostamento 3](https://laraprevitali.github.io/gim/Esercizio_1A/spostamento_3.html)
 ## Esercizio 1B
-- [logo](https://laraprevitali.github.io/gim/Esercizio_1B/index.html)
+- [logo](https://laraprevitali.github.io/gim/Esercizio_1B/logo.html)
 ## Esercizio 1C
 Il concetto centrale discusso in questo testo è che la grazia “perfetta” non si può trovare nell’essere umano — perché troppo consapevole — ma che va cercata in qualcos’altro. Vengono proposte due vie: l’incoscienza, come esempio le marionette, oppure arrivare a uno stadio superiore, superando la coscienza, come un essere divino.   
 
@@ -20,12 +20,12 @@ Così come con le marionette, nel mondo dell’animazione accade che si cerca di
 
 La grazia che, da quanto capito, non si trova nel puro realismo, ma in una semplificazione, una stilizzazione dei movimenti, proprio come nei teatri di marionette.
 ## Esercizio 2
-- [parallasse interattivo](https://laraprevitali.github.io/gim/Esercizio_2/index.html)
-- [parallasse animato](https://laraprevitali.github.io/gim/Esercizio_2/index_animato.html)
+- [parallasse interattivo](https://laraprevitali.github.io/gim/Esercizio_2/parallasse_interattivo.html)
+- [parallasse animato](https://laraprevitali.github.io/gim/Esercizio_2/parallasse_animato.html)
 ## Esercizio 3A
-- [pong](https://laraprevitali.github.io/gim/Esercizio_3A/03_es_pong/index.html)
-- [pioggia](https://laraprevitali.github.io/gim/Esercizio_3A/04_es_pioggia/index.html)
-- [pioggia 3D](https://laraprevitali.github.io/gim/Esercizio_3A/05_es_pioggia3D/index.html)
-- [neve](https://laraprevitali.github.io/gim/Esercizio_3A/06_es_neve/index.html)
+- [pong](https://laraprevitali.github.io/gim/Esercizio_3A/03_es_pong/pong.html)
+- [pioggia](https://laraprevitali.github.io/gim/Esercizio_3A/04_es_pioggia/pioggia.html)
+- [pioggia 3D](https://laraprevitali.github.io/gim/Esercizio_3A/05_es_pioggia3D/pioggia_3D.html)
+- [neve](https://laraprevitali.github.io/gim/Esercizio_3A/06_es_neve/neve.html)
 ## Esercizio 3B
-- [orologio](https://laraprevitali.github.io/gim/Esercizio_3B/es_orologio/index.html)
+- [orologio](https://laraprevitali.github.io/gim/Esercizio_3B/es_orologio/orologio.html)
